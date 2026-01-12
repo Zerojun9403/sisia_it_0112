@@ -2,7 +2,7 @@ package com.sisa;
 
 public class PersonMenu {
 
-    private Person[] persons = new Person[10];
+    private Person[] persons = new Person[100];
     private int no = 0;
 
     // 등록
